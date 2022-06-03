@@ -1,2 +1,2 @@
 # flip-game
-flip games
+flip game
